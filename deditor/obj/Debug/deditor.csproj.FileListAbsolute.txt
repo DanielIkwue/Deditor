@@ -1,0 +1,8 @@
+C:\Users\Gamer\Desktop\deditor\deditor\bin\Debug\deditor.exe
+C:\Users\Gamer\Desktop\deditor\deditor\bin\Debug\deditor.pdb
+C:\Users\Gamer\Desktop\deditor\deditor\obj\Debug\deditor.Form1.resources
+C:\Users\Gamer\Desktop\deditor\deditor\obj\Debug\deditor.Properties.Resources.resources
+C:\Users\Gamer\Desktop\deditor\deditor\obj\Debug\deditor.csproj.GenerateResource.Cache
+C:\Users\Gamer\Desktop\deditor\deditor\obj\Debug\deditor.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\deditor\deditor\obj\Debug\deditor.exe
+C:\Users\Gamer\Desktop\deditor\deditor\obj\Debug\deditor.pdb
